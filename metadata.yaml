@@ -1,0 +1,32 @@
+_repo: Egy-maganos-setalo-almodozasai_66939
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Rácz, Lajos
+    gutenberg_agent_id: '54038'
+    url: http://www.gutenberg.org/2009/agents/54038
+creator:
+  author:
+    agent_name: Rousseau, Jean-Jacques
+    aliases:
+    - Rousseau, Jean Jacques
+    - Rousseau, J. J. (Jean-Jacques)
+    birthdate: 1712
+    deathdate: 1778
+    gutenberg_agent_id: '1286'
+    url: http://www.gutenberg.org/2009/agents/1286
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
+    - https://fr.wikipedia.org/wiki/Jean-Jacques_Rousseau
+description: ''
+gutenberg_issued: '2021-12-13'
+identifiers:
+  gutenberg: '66939'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Egy magános sétáló álmodozásai
+url: http://www.gutenberg.org/ebooks/66939
