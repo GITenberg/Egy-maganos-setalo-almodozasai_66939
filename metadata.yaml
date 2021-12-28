@@ -5,6 +5,9 @@ contributor:
     agent_name: Rácz, Lajos
     gutenberg_agent_id: '54038'
     url: http://www.gutenberg.org/2009/agents/54038
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rousseau, Jean-Jacques
@@ -19,6 +22,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
     - https://fr.wikipedia.org/wiki/Jean-Jacques_Rousseau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66939#Egy-maganos-setalo-almodozasai
 gutenberg_issued: '2021-12-13'
 identifiers:
   gutenberg: '66939'
